@@ -10,7 +10,7 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.pksdq.mongodb.net
-      MONGODB_DB_NAME: huyentran16041996
+      MONGODB_USERNAME: huyentran16041996
       MONGODB_PASSWORD: vj0Rrsm6Y8QzG8c3
       PORT: 8080
     # environment: testing
